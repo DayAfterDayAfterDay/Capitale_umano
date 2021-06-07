@@ -9,19 +9,13 @@ a) Variabili statistica descrittiva:
 
 -Pil pro capite (boxplot, istogramma[asse x-variabile da scegliere; asse y-Pil pro capite] da dividere in classi)
 
--Curva di Lorentz (Paesi e Pil pro capite[?]) ~ chiedi Alleva
+-Spesa per istruzione in generale (boxplot, vedi grafici carini)
 
--Spesa per istruzione primaria (boxplot, vedi grafici carini)
-
--Spesa per istruzione secondaria (boxplot, vedi grafici carini)
-
--Spesa per istruzione terziaria (boxplot, vedi grafici carini)
-
--(Ricercatori/popolazione attiva) ---> grafici vari di statistica descrittiva
+-Soesa per ricerca in generale e (Ricercatori/popolazione attiva) ---> grafici vari di statistica descrittiva
 
 b) commento ai risultati ottenuti e ai grafici
 
 Fase 3:
 
--Regressione ed inferenza
+-Regressione ed inferenza (con commento ai risultati e ai grafici)
 
