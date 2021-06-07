@@ -11,7 +11,7 @@ a) Variabili statistica descrittiva:
 
 -Spesa per istruzione in generale (boxplot, vedi grafici carini)
 
--Soesa per ricerca in generale e (Ricercatori/popolazione attiva) ---> grafici vari di statistica descrittiva
+-Spesa per ricerca in generale e (Ricercatori/popolazione attiva) ---> grafici vari di statistica descrittiva
 
 b) commento ai risultati ottenuti e ai grafici
 
